@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TvRemote" parent="@style/Theme.Leanback" />
+</resources>
